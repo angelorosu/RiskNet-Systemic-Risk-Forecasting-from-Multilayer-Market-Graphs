@@ -1,7 +1,7 @@
 # Deep Multilayer Graph Kernels for Systemic Risk Prediction
 
 **What it is:**  
-A concise implementation of the framework from Rosu et al. (April 2025) that predicts systemic risk in financial markets by leveraging deep graph kernels on multilayer networks (intra- and intersector).
+A concise implementation of a framework that predicts systemic risk in financial markets by leveraging deep graph kernels on multilayer networks (intra- and intersector).
 
 **Key Components:**  
 - **Data Prep:** Load historical price data, compute log-returns, build sector-based node lists.  
